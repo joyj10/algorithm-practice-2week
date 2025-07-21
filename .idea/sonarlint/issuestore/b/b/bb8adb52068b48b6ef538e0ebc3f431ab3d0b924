@@ -1,0 +1,7 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(ßºú¤8öš­Ó‚3
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Âä€úÿÿÿÿ8øš­Ó‚3
+L	java:S106	"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8ûš­Ó‚3
+N
+java:S1172",Remove this unused method parameter "files".(ƒŒ¬¹ÿÿÿÿÿ8ûš­Ó‚3
