@@ -1,4 +1,4 @@
-package day1;
+package algorithm;
 
 import java.util.ArrayList;
 import java.util.Collections;

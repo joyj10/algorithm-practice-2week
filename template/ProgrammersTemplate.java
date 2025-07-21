@@ -1,4 +1,4 @@
-public class Main {
+public class ProgrammersTemplate {
     public static void main(String[] args) {
         String input = "";
         String result = solution(input);

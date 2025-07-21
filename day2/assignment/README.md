@@ -52,7 +52,7 @@ public class ReservationService {
 }
 ```
 
-## Main 클래스 예시
+## ProgrammersTemplate 클래스 예시
 ```java
 public class ReservationMain {
     public static void main(String[] args) {
