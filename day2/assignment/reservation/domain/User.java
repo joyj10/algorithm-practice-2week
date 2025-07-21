@@ -1,4 +1,4 @@
-package day2.reservation.domain;
+package assignment.reservation.domain;
 
 public class User {
     private Long id;

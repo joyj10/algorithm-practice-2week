@@ -1,7 +1,7 @@
-package day2.reservation;
+package assignment.reservation;
 
-import day2.reservation.domain.User;
-import day2.reservation.service.ReservationService;
+import assignment.reservation.domain.User;
+import assignment.reservation.service.ReservationService;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
